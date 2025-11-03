@@ -1,6 +1,6 @@
 (function (w, d) {
   // 1) Pixel Express pixel URL (DEFAULT-ON with GPC honor + user opt-out)
-  var PIXEL_URL = "https://cdn.v3.identitypxl.app/pixels/a34a05a3-c540-4299-aa9b-80774b26c3ae/p.js";
+  var PIXEL_URL = "https://cdn.v3.identitypxl.app/pixels/29197790-814e-4b04-b4ee-429729772abf/p.js";
   var PIXEL_ID  = "pixelexpress-superpixel";
 
   // 2) Keys
